@@ -1,0 +1,18 @@
+{
+  "name": "learn-node",
+  "version": "1.0.0",
+  "description": "refresher on node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Young Kim",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
